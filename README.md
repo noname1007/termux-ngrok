@@ -3,12 +3,17 @@
 
 ### Installing ngrok on Termux
 ``
-apt update && apt upgrade<br>
-apt install git<br>
-git clone https://github.com/noname1007/termux-ngrok.git<br>
-cd termux-ngrok<br>
-chmod + x termux-ngrok.sh<br>
-./termux-ngrok.sh<br>
+apt update && apt upgrade
+
+apt install git
+
+git clone https://github.com/noname1007/termux-ngrok.git
+cd termux-ngrok
+
+chmod + x termux-ngrok.sh
+
+./termux-ngrok.sh
+
 ``
 ### Screenshot
 
